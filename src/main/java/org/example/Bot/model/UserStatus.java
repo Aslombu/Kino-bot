@@ -1,0 +1,5 @@
+package org.example.Bot.model;
+
+public enum UserStatus {
+    START,REGESTRED,KINOIZLASH,ADMIN,ADMINMENYU,KINORAQAMI,VEDIOFORWORD,KINONOMI,KINODELETE;
+}
